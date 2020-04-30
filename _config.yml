@@ -9,7 +9,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter:  #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Hannah E. Burson, PhD # add your name
+author: Hannah E. Burson # add your name
 author-img: heburson_photo.png # add your photo
 about-author: Number Theorist | Researcher | Educator.  # add description
 #social-twitter: MissVRiveraQ # add your Twitter handle
