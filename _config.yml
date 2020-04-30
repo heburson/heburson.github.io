@@ -1,7 +1,7 @@
 theme: jekyll-theme-slate
 title: Hannah E. Burson
 
-description: Combinatorial Number Theorist.
+description: Combinatorial Number Theorist
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -10,7 +10,7 @@ site-twitter:  #if your site has a twitter account, enter it here
 # Author Settings
 author: Hannah E. Burson # add your name
 author-img: heburson_photo.png # add your photo
-about-author: Number Theorist | Researcher | Educator.  # add description
+about-author: "Number Theorist | Researcher | Educator."  # add description
 social-twitter: 
 social-facebook: # add your Facebook handle 
 social-github: 
