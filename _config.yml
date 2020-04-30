@@ -1,8 +1,7 @@
 theme: jekyll-theme-slate
 title: Hannah E. Burson
 
-description: > # this means to ignore newlines until "baseurl:"
-  Combinatorial Number Theorist.
+description: Combinatorial Number Theorist.
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -12,9 +11,9 @@ site-twitter:  #if your site has a twitter account, enter it here
 author: Hannah E. Burson # add your name
 author-img: heburson_photo.png # add your photo
 about-author: Number Theorist | Researcher | Educator.  # add description
-#social-twitter: MissVRiveraQ # add your Twitter handle
-#social-facebook: # add your Facebook handle 
-#social-github: vriveraq # add your Github handle
+social-twitter: 
+social-facebook: # add your Facebook handle 
+social-github: 
 social-linkedin: hannah-burson-73295a43 # add your Linkedin handle
 social-email: hburso2@illinois.edu # add your Email address
 
