@@ -22,7 +22,7 @@ social-email: hburso2@illinois.edu # add your Email address
 # discus-identifier: mr-brown # add your discus identifier
 
 # Tracker
-# analytics: # Google Analytics
+ analytics: UA-165016758-1
 
 # Build Settings
 markdown: kramdown
