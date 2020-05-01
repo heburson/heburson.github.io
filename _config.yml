@@ -2,6 +2,6 @@ theme: jekyll-theme-slate
 title: Hannah E. Burson
 description: Combinatorial number theorist.
 
-show_downloads: true
+show_downloads: false
 google_analytics: UA-165016758-1
 theme: jekyll-theme-slate
