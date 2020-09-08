@@ -2,6 +2,9 @@ theme: jekyll-theme-slate
 title: Hannah E. Burson
 description: Combinatorial number theorist.
 
+#Author settings
+social-email: hburson@umn.edu
+
 show_downloads: false
 is_project_page: false
 google_analytics: UA-165016758-1
